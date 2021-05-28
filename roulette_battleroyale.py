@@ -28,7 +28,7 @@
 
  Puis un tournois entre toutes les IA aura lieu, le tournois se déroulera en 20 simulations (histoire de laisser un peu d'aléatoire)
  Le tournois sera suivis par un bot discord qui enverra dans un channel spécifique le résultat des points de chaque participant pour chaque simulation (quelques secondes entre chaque simu)
- Une fois les 20 simulations éffectuées, la moyenne des 20 simus pour chaque participant sera calculée et le classement se fera de la plus basse moyenne à la plus haute
+ Une fois les 20 simulations éffectuées, la moyenne des points des 20 simus pour chaque participant sera calculée et le classement se fera de la plus basse moyenne à la plus haute 
 
  N'hésitez pas à lancer le script avant de commencer à coder pour mieux comprendre comment il fonctionne
  PS: Au plus le 'coef_multiplicateur' est élevée, au plus vos gains sont importants (si la 'roulette' tombe sur 1 bien sur), basez vous sur ça pour que votre IA gère le montant de votre 'mise'
